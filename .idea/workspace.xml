@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="92b99c80-1f17-4e39-b720-608fc5654c01" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings">
+    <execution>
+      <executable />
+    </execution>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="CSS File" />
+        <option value="HTML File" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1WeCblI6FhYbTDbWgllKAqvfQFa" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/RESOURSES/presentation2/js" />
+    <property name="list.type.of.created.stylesheet" value="CSS" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\HP\PhpstormProjects\bootstrapclass\RESOURSES\presentation2\js" />
+      <recent name="C:\Users\HP\PhpstormProjects\bootstrapclass\RESOURSES\presentation2" />
+      <recent name="C:\Users\HP\PhpstormProjects\bootstrapclass\RESOURSES\css" />
+      <recent name="C:\Users\HP\PhpstormProjects\bootstrapclass\RESOURSES" />
+      <recent name="C:\Users\HP\PhpstormProjects\bootstrapclass\js" />
+    </key>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="92b99c80-1f17-4e39-b720-608fc5654c01" name="Default Changelist" comment="" />
+      <created>1579500746269</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1579500746269</updated>
+      <workItem from="1579500748371" duration="8861000" />
+      <workItem from="1579548064162" duration="2929000" />
+      <workItem from="1579588214308" duration="9105000" />
+      <workItem from="1579668098491" duration="7235000" />
+      <workItem from="1580882573844" duration="1335000" />
+      <workItem from="1580884115285" duration="2291000" />
+      <workItem from="1580924908946" duration="3568000" />
+      <workItem from="1580978948156" duration="2069000" />
+      <workItem from="1581056047513" duration="1071000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="463" y="127" key="FileChooserDialogImpl" timestamp="1580971104696">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="463" y="127" key="FileChooserDialogImpl/0.0.1366.728@0.0.1366.728" timestamp="1580971104696" />
+    <state x="379" y="189" key="com.intellij.ide.util.TipDialog" timestamp="1580924934937">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="379" y="189" key="com.intellij.ide.util.TipDialog/0.0.1366.728@0.0.1366.728" timestamp="1580924934937" />
+    <state x="110" y="136" width="1146" height="472" key="dock-window-1" timestamp="1580884221707">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="110" y="136" width="1146" height="472" key="dock-window-1/0.0.1366.728@0.0.1366.728" timestamp="1580884221707" />
+    <state x="110" y="136" width="1146" height="472" key="dock-window-2" timestamp="1580884221707">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="110" y="136" width="1146" height="472" key="dock-window-2/0.0.1366.728@0.0.1366.728" timestamp="1580884221707" />
+    <state x="339" y="162" key="run.anything.popup" timestamp="1579591634925">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="339" y="162" key="run.anything.popup/0.0.1366.728@0.0.1366.728" timestamp="1579591634925" />
+  </component>
+</project>
